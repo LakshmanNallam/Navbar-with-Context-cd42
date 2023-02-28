@@ -1,0 +1,30 @@
+/* Write your CSS here */
+.navv {
+  display: flex;
+  justify-content: space-around;
+  min-height: 5vh;
+  background-color: black;
+  font-size: 13px;
+  align-items: center;
+}
+.link {
+  text-decoration: none;
+}
+.light {
+  background-color: white;
+  color: black;
+}
+.dark {
+  background-color: black;
+  color: white;
+}
+.firstImgConHolder {
+  width: 5%;
+  margin-left: 0px;
+}
+.logo {
+  width: 100%;
+}
+.btn {
+  background-color: transparent;
+}

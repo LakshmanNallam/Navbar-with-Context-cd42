@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.HomeCon {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+.LowerConInHome {
+  min-height: 90vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
